@@ -1,0 +1,16 @@
+/*psueudocode for a name scrambler:
+
+GET user input for first name
+GET user input for last name
+
+CREATE a variable to hold the scrambled name
+
+FOR each letter in the first name
+    ADD the letter to the scrambled name variable
+FOR each letter in the last name
+    ADD the letter to the scrambled name variable
+
+SHUFFLE the letters in the scrambled name variable
+OUTPUT the scrambled name ("Your scrambled name is: " + scrambled name variable)
+
+*/
