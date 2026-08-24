@@ -1,10 +1,13 @@
-## Word Unscrambler
-A fun fruit-themed word unscrambling game! Test test your knowledge of inane fruit names, can you get the highest score?
+## Name Scrambler
 
-<img width="347" height="178" alt="image" src="https://github.com/user-attachments/assets/92ac06d3-6b47-4853-83e5-385ae6d03f4c" />
+<img width="351" height="85" alt="image" src="https://github.com/user-attachments/assets/07db1360-aa2b-4d48-9098-ba1871b0c4fd" />
 
+## _What is it?_
+It scrambles your name! Haven't you ever wondered what your name would look like pushed through the Fisher-Yates algorithm?
 
+_No?_
+
+Well, that's disappointing! Because that's what this does!
 
 ## Requirements
-- Python (At least 3.13)
-- Colorama
+- Java Development Kit
